@@ -2,22 +2,22 @@
 A port management app. Only for linux tho. 
 <p align="center"> <img src="https://raw.githubusercontent.com/STRTSNM/Who-Has-My-Ports-/refs/heads/main/icon.png" /> </p>
 
-# 📸 Screenshot
+# Screenshot
 &ensp;
 <p align="center"> <img src="https://github.com/STRTSNM/Who-Has-My-Ports-/blob/main/img.png?raw=true" /> </p>
 
 &ensp;
 
-## ✨ Features
+## Features
 
-- 🔍 **Scan** for ports on your machine used by apps.
-- 🔪 **Kill** the unwanted process using your ports.
-- 🎯 **Targeted checks** for specific TCP/UDP ports
+- **Scan** for ports on your machine used by apps.
+- **Kill** the unwanted process using your ports.
+- **Targeted checks** for specific TCP/UDP ports
 ---
 
 &ensp;
 
-## 💻 How to run  **¯\_(ツ)_/¯**
+## How to run
 
 - ```python main.py```
 OR 
@@ -27,6 +27,6 @@ OR
 
 
 &ensp;
-## 📜 License
+## License
 
 MIT License — feel free to use this project however you like.
